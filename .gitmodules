@@ -1,0 +1,6 @@
+[submodule "hexagonal"]
+	path = hexagonal
+	url = https://github.com/alireza-aliabadi/golang-hexagonal.git
+[submodule "repository"]
+	path = repository
+	url = https://github.com/alireza-aliabadi/golang-repository.git
